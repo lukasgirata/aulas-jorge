@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\bin\Debug\net6.0-windows\calculadora2.exe
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\bin\Debug\net6.0-windows\calculadora2.deps.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\bin\Debug\net6.0-windows\calculadora2.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\bin\Debug\net6.0-windows\calculadora2.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\bin\Debug\net6.0-windows\calculadora2.pdb
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\refint\calculadora2.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.pdb
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\ref\calculadora2.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.Calculadora.resources
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.Properties.Resources.resources
