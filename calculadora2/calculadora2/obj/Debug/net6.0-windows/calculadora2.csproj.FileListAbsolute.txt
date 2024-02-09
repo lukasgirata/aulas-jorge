@@ -15,3 +15,4 @@ C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\
 C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\ref\calculadora2.dll
 C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.Calculadora.resources
 C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.Properties.Resources.resources
+C:\Users\aluno\Documents\GitHub\aulas-jorge\calculadora2\calculadora2\obj\Debug\net6.0-windows\calculadora2.sourcelink.json
