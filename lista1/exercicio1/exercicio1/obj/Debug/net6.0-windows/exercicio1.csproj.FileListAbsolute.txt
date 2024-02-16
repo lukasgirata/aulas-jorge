@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\bin\Debug\net6.0-windows\exercicio1.exe
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\bin\Debug\net6.0-windows\exercicio1.deps.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\bin\Debug\net6.0-windows\exercicio1.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\bin\Debug\net6.0-windows\exercicio1.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\bin\Debug\net6.0-windows\exercicio1.pdb
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\refint\exercicio1.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.pdb
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\exercicio1.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\lista1\exercicio1\exercicio1\obj\Debug\net6.0-windows\ref\exercicio1.dll
