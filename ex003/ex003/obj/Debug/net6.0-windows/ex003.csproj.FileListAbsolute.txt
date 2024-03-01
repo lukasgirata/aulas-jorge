@@ -1,0 +1,17 @@
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\bin\Debug\net6.0-windows\ex003.exe
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\bin\Debug\net6.0-windows\ex003.deps.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\bin\Debug\net6.0-windows\ex003.runtimeconfig.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\bin\Debug\net6.0-windows\ex003.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\bin\Debug\net6.0-windows\ex003.pdb
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.Form1.resources
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.csproj.GenerateResource.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.AssemblyInfo.cs
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.sourcelink.json
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\refint\ex003.dll
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.pdb
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ex003.genruntimeconfig.cache
+C:\Users\aluno\Documents\GitHub\aulas-jorge\ex003\ex003\obj\Debug\net6.0-windows\ref\ex003.dll
